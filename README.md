@@ -8,6 +8,22 @@
 
 <br/>
 
+<!-- Contact state -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fahim4/)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmadfahim4)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahimad24)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://fahimad24.github.io/portfolio1/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtaraquerahmanfahim@gmail.com)
+
+</div>
+
 <!-- Profile views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=fahimad24&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 &nbsp;
@@ -95,21 +111,6 @@ Hi there! I'm **Fahim**, a passionate **Frontend Web Developer** from Bangladesh
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fahim4/)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmadfahim4)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahimad24)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://fahimad24.github.io/portfolio1/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtaraquerahmanfahim@gmail.com)
-
-</div>
 
 ---
 
