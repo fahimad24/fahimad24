@@ -39,7 +39,7 @@ Hi there! I'm **Fahim**, a passionate **Frontend Web Developer** from Bangladesh
 
 - 📍 **Location:** Dhukundi, Belabo, Narsingdi, Bangladesh
 - 📧 **Email:** [mdtaraquerahmanfahim@gmail.com](mailto:mdtaraquerahmanfahim@gmail.com)
-- 🌐 **Portfolio:** [fahimad24.github.io/portfolio1](https://fahimad24.github.io/portfolio1/)
+- 🌐 **Portfolio:** [fahimad24.github.io/portfolio1](https://ahmadfahim.vercel.app/)
 - 🎯 **Focus:** Building pixel-perfect, performant frontend experiences
 
 ---
