@@ -105,7 +105,7 @@ Hi there! I'm **Fahim**, a passionate **Frontend Web Developer** from Bangladesh
 |--------|-------------|------------|------|
 | 🔷 **Cyber-Syntax** | Frontend for a tech service company — layout-focused, clean & professional | Next.js · Tailwind · TypeScript · shadcn/ui | [🌐 Visit](https://www.cybersyntax.com.bd/) |
 | 📚 **WebNGraphic** | A Wev developing agenc web app — simple, responsive UI for all screen sizes | HTML · CSS · Tailwind · JavaScript · daisyUI | [🌐 Visit](https://webngraphic.vercel.app/) |
-| 🎨 **Portfolio** | My personal developer portfolio showcasing projects and skills | HTML · CSS · JavaScript | [🌐 Visit]([https://fahimad24.github.io/portfolio1/](https://ahmadfahim.vercel.app/)) |
+| 🎨 **Portfolio** | My personal developer portfolio showcasing projects and skills | HTML · CSS · JavaScript | [🌐 Visit](https://ahmadfahim.vercel.app/) |
 
 </div>
 
